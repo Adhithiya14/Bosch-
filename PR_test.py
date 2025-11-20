@@ -1,9 +1,9 @@
 import requests
 import json
 
-API_KEY = "3baf3939c6a5405eba2dc9b2d330fab4"
-MODEL = "gemini-2.0-flash-lite"  
-ENDPOINT = "https://aoai-farm.bosch-temp.com/api/openai/deployments/google-gemini-2-0-flash-lite/chat/completions"
+API_KEY = "your api key here"
+MODEL = "enter your model here"  
+ENDPOINT = "your endpoint here"
 
 conversation = [] 
 
